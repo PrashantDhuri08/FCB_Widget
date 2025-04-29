@@ -16,7 +16,7 @@ This project is a simple Android application built using Kotlin that provides a 
 
 Include a screenshot here showing the widget on a home screen. This helps users visualize what they are installing.
 
-![FCB Widget Screenshot](./SS/widgetss.jpg)
+<img src="./SS/widgetss.jpg" alt="FCB Widget Screenshot" width="500" height="800">
 
 ## Installation
 
@@ -34,11 +34,10 @@ You can install this widget by either building the project from source or, if av
 
 ### From APK (If applicable)
 
-If you provide APK releases, include instructions here. Otherwise, remove this section.
-
-1.  **Download the APK:** Download the latest `app-release.apk` from the [Releases page]([Link to your Releases page]).
+1.  **Download the APK:** Download the apk from folder **apk** in repo <a href="./apk/FCB.apk">FCB</a>
 2.  **Enable Installation from Unknown Sources:** Go to your device's Settings > Security (or Apps & notifications > Advanced > Special app access > Install unknown apps) and allow installation from the source where you downloaded the APK (e.g., your browser or file manager).
 3.  **Install the APK:** Locate the downloaded APK file using a file manager and tap on it to install.
+4.  **Checkout other widgets as well:** <a href="/apk/ttt.apk">TikTakToe</a>
 
 ## Usage
 
